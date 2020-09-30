@@ -1,0 +1,16 @@
+{
+"companyName": "Bariq",
+"productName": "Bariq AR",
+"productVersion": "0.1",
+"dataUrl": "WebLite.data.unityweb",
+"wasmCodeUrl": "WebLite.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebLite.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.14f1"
+}
